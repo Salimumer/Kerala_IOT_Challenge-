@@ -201,7 +201,10 @@ void loop()
 
 # Circuit Diagrams
 
-![148674078-1369d46f-8f98-4c64-bb7b-6f9c8eb29bbf](https://user-images.githubusercontent.com/84274432/155372434-9aa08b94-d417-4512-b818-8f6a68c66ebd.png)
+
+![137346912-0f871dbf-8e86-4734-a337-fceeff454e33 (1)](https://user-images.githubusercontent.com/84274432/155551790-2cee2b7c-0082-4fc0-92fa-75552713c7c4.png)
+
+
 
 # Code
 ```
